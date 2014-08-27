@@ -1,0 +1,39 @@
+.jumbotron {
+    min-height:300px;
+    background:#c26d21;
+    background-repeat:no-repeat;
+    background-position:top right;
+    h1 {
+        color:white;
+        font-size:32px;
+    }
+    h2 {
+        font-size:24px;
+        color:#e5a164;
+    }
+}
+
+.tall {
+    min-height:600px;
+    height:100vh;
+    h1 {
+        font-size:50px;
+    }
+    h2 {
+        color:#fff;
+        line-height:1.5em;
+    }
+}
+
+h2.section-title {
+    text-align:center;
+    font-weight:100;
+    font-size:48px;
+    color:#aaa;
+    margin-bottom:40px;
+}
+
+footer {
+    font-size:11px;
+    color:#aaa;
+}
