@@ -24,7 +24,7 @@ class Submission
   property :name,       String, length: 255
   property :email,      String, length: 255
   property :phone,      String, length: 255
-  property :
+  property :company,    String, length: 255
 
 DataMapper.finalize
 DataMapper.auto_upgrade!
